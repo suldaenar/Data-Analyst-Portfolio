@@ -3,6 +3,9 @@ Hello, my name is Hana V.
 I want to change my career to a data analyst and I would like to use this portfolio to show what I can do.
 
 
+To begin with, I uploaded the NY Housing project, where I cleaned the dataset using Python and prepared it for further analysis.
+Other projects will be added soon.
+
 
 My skills are:
 
@@ -16,5 +19,4 @@ Python - Numpy, Pandas, Matplotlib, Seaborn + starting with Spark and Plotly/Das
 Microsoft Excel - using Excel for Office 365, basics formulas and functions including Dynamic Array formulas, creating dashboards 
 
 
-To begin with, I uploaded the NY Housing project, where I cleaned the dataset using Python and prepared it for further analysis.
-Other projects will be added soon.
+
