@@ -13,7 +13,7 @@ SQL - Basics, Joining Tables, Aggregations, Subqueries, CTE, Window Functions, U
 
 PowerBI - Data Modelling, Data Transformation in Power Query, Basic DAX formulas and Interactive Reports
 
-Python - Numpy, Pandas, Matplotlib, Seaborn + starting with Spark and Plotly/Dash (and some other libraries and packeges)
+Python - Numpy, Pandas, Matplotlib, Seaborn + starting with Spark and Plotly/Dash (and some other libraries and packages)
 
 
 Microsoft Excel - using Excel for Office 365, basics formulas and functions including Dynamic Array formulas, creating dashboards 
