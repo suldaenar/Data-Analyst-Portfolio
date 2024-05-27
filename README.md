@@ -10,7 +10,7 @@ My skills:
 -  Python - Numpy, Pandas, Matplotlib, Seaborn + starting with Spark and Plotly/Dash (and some other libraries and packages)
 -  Microsoft Excel - using Excel for Office 365, basics formulas and functions including Dynamic Array formulas, creating dashboards 
 
-To begin with, I uploaded the NY Housing project, where I cleaned the dataset using Python and prepared it for further analysis. 
+To begin with, I uploaded the NY Housing project, where I cleaned the dataset using Python and prepared it for further analysis. The data source is kaggle.com.
 
 Power BI report:
 
